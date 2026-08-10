@@ -1,4 +1,10 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/r-universe-org/cran-to-git
+	url = https://github.com/impact-initiatives-hppu/impact-initiatives-hppu.r-universe.dev
 	branch = HEAD
+[submodule "humind"]
+	path = humind
+	url = https://github.com/impact-initiatives-hppu/humind
+[submodule "impactR.viz"]
+	path = impactR.viz
+	url = https://github.com/impact-initiatives-hppu/impactR.viz
