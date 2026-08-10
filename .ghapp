@@ -1,0 +1,10 @@
+{
+  "id": 152577789,
+  "created_at": "2026-08-10T06:39:05.000Z",
+  "repository_selection": "selected",
+  "permissions": {
+    "metadata": "read",
+    "statuses": "write"
+  },
+  "repositories": ["humind", "impact-initiatives-hppu.r-universe.dev"]
+}
